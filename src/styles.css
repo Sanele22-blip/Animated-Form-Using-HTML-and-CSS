@@ -30,11 +30,11 @@ h1
     width: 200px;
     outline: none;
     color: black;
-    border: 42x solid #343434;
+    border: 4px solid #343434;
     padding: 16px 12px;
     width: 200px;
     border-radius: 26px;
-    transition: 0.30s;
+    transition: 0.25s;
 }
 
 .user-data :focus {
@@ -54,7 +54,7 @@ h1
     color: black;
     border: 4px solid #343434;
     border-radius: 26px;
-    transition: 0.30s;
+    transition: 0.25s;
     padding: 16px 12px;
 }
 
@@ -75,7 +75,7 @@ h1
     color: black;
     border: 4px solid #343434;
     border-radius: 26px;
-    transition: 0.30s;
+    transition: 0.25s;
 }
 
 .pass-data :focus {
@@ -90,10 +90,10 @@ background: none;
 display: block;
 margin: 20px auto;
 border: 4px solid #343434;
-padding: 12px 36px;
+padding: 12px 38px;
 color: black;
 outline: none;
-transition: 0.30s;
+transition: 0.25s;
 }
 
 .register :hover{
