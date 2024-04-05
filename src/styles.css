@@ -4,6 +4,11 @@ body {
     font-family: sans-serif;
 }
 
+h1
+{
+    text-align: center;
+    color: black;
+}
 .container {
     width: 300px;
     padding: 40px;
@@ -91,4 +96,12 @@ transition: 0.30s;
 .register :hover{
     cursor: pointer;
     background-color: blueviolet;
+}
+
+footer {
+    text-align: center;
+}
+
+footer a {
+    text-decoration: none;
 }
