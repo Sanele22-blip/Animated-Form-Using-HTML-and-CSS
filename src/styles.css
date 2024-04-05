@@ -2,6 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: sans-serif;
+    font-weight: bold;
 }
 
 h1
@@ -30,7 +31,7 @@ h1
     width: 200px;
     outline: none;
     color: black;
-    border: 4px solid #343434;
+    border: 4px solid black;
     padding: 16px 12px;
     width: 200px;
     border-radius: 26px;
@@ -52,7 +53,7 @@ h1
     width: 200px;
     outline: none;
     color: black;
-    border: 4px solid #343434;
+    border: 4px solid black;
     border-radius: 26px;
     transition: 0.25s;
     padding: 16px 12px;
@@ -73,7 +74,7 @@ h1
     width: 200px;
     outline: none;
     color: black;
-    border: 4px solid #343434;
+    border: 4px solid black;
     border-radius: 26px;
     transition: 0.25s;
 }
@@ -89,7 +90,7 @@ text-align: center;
 background: none;
 display: block;
 margin: 20px auto;
-border: 4px solid #343434;
+border: 4px solid black;
 padding: 12px 38px;
 color: black;
 outline: none;
@@ -98,7 +99,6 @@ transition: 0.25s;
 
 .register :hover{
     cursor: pointer;
-    background-color: blueviolet;
 }
 
 footer {
